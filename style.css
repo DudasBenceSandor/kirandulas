@@ -21,7 +21,8 @@ header{
 .img{
     width: 120px;
     height: 100px;
-    margin-left: 500px;
+    float: right;
+    display: flex;
 }
 .map{
     margin: auto 100px;
